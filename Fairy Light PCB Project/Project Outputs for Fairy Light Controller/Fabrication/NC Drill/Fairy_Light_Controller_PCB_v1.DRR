@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Fairy_Light_Controller_PCB_v1.PcbDoc   8/29/2022  2:10:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fairy_Light_Controller_PCB_v1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.508mm)                                           Round             27        PTH        4.97inch (126.12mm)
+T2      36mil (0.919mm)                                           Round             12        PTH        3.76inch (95.59mm)
+T3      40mil (1.021mm)                                           Round             14        PTH        4.59inch (116.69mm)
+T4      91mil (2.301mm)                                           Round             6         PTH        4.39inch (111.56mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        6.97inch (177.12mm)
+T6      67mil (1.699mm)                                           Round             2         NPTH       0.63inch (16.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              65
+
+Total Processing Time (hh:mm:ss) : 00:00:00

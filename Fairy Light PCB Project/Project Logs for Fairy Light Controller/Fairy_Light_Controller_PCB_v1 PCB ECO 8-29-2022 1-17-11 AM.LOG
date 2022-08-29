@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=TOGGLE Pin=U1-1
+Added Pin To Net: NetName=GLOW_LEDS Pin=U1-12
+Added Pin To Net: NetName=PD4 Pin=P2-1
+Added Pin To Net: NetName=PD4 Pin=U1-2
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=P2-2
+Added Pin To Net: NetName=PD5 Pin=U1-9
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=P2-3
+Added Pin To Net: NetName=PD6 Pin=U1-10
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=P2-4
+Added Pin To Net: NetName=PD7 Pin=U1-11
+Added Net: Name=PD7

@@ -1,0 +1,3 @@
+Added Component: Designator=J5(SV8FW3SS-601)
+Add component (AddParameter): Name = "MPN"; Value = "SV8FW3SS-601"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ic Member=Component J5 SV8FW3SS-601

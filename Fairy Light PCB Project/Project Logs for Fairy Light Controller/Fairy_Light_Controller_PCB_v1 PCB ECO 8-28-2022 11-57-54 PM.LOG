@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED_GND Pin=D19-2
+Removed Pin From Net: NetName=5V Pin=R23-2
+Removed Member From Class: ClassName=leds Member=D19
+Removed Member From Class: ClassName=leds Member=R23
+Added Member To Class: ClassName=leds Member=Component D2 White

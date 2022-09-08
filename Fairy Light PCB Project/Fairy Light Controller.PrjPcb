@@ -105,7 +105,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AOMPIUQF
 
 [Document4]
-DocumentPath=Fairy_Light_Controller_PCB_v1.PcbDoc
+DocumentPath=Fairy_Light_Controller_PCB_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,6 +157,10 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Fairy Light Controller\Design Rule Check - Fairy_Light_Controller_PCB_v1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Fairy Light Controller\Design Rule Check - Fairy_Light_Controller_PCB_v2.html
 DItemRevisionGUID=
 
 [Configuration1]

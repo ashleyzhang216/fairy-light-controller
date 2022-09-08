@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=TOGGLE Pin=U1-1
+Removed Pin From Net: NetName=GLOW_LEDS Pin=U1-13
+Change Component Footprint: Designator=R4 Old Footprint=RESC2013X50X30LL20T20 New Footprint=RESC2013X50X30NL20T20
+Change Component Comment : Designator=R4 Old Comment=0 New Comment=1k
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=78462138-499A-4A0D-A527-3027AB8F838F New ItemGUID=92CC740A-06D3-43E3-A10C-B3B8112CF24E Old RevisionGUID=B8426C4C-D616-46EA-83DD-42D624EF6A27 New RevisionGUID=0CE819D6-0B7C-4361-B742-EE40DEA8A2B9
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC2013X50X30LL20T20"; UniqueID = "\NTVGBBAC" ("\NTVGBBAC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CRCW08051K00FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW08051K00FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(FAIR-FDV303N-3_V)
+Add component (AddParameter): Name = "Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/22681/1845307-22681736.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D2, 07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "0.68A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "FDV303N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55to150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS-on"; Value = "450@4.5VmOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Fall Time"; Value = "13ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Rise Time"; Value = "8.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "17ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "3ns"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(FAIR-FDV303N-3_V)
+Add component (AddParameter): Name = "Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/22681/1845307-22681736.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D2, 07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "0.68A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "FDV303N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55to150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS-on"; Value = "450@4.5VmOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Fall Time"; Value = "13ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Rise Time"; Value = "8.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "17ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "3ns"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(FAIR-FDV303N-3_V)
+Add component (AddParameter): Name = "Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/22681/1845307-22681736.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D2, 07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "0.68A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "FDV303N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55to150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS-on"; Value = "450@4.5VmOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Fall Time"; Value = "13ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Rise Time"; Value = "8.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "17ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "3ns"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(FAIR-FDV303N-3_V)
+Add component (AddParameter): Name = "Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/22681/1845307-22681736.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D2, 07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "0.68A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "FDV303N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55to150degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS-on"; Value = "450@4.5VmOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Fall Time"; Value = "13ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Rise Time"; Value = "8.5ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "17ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "3ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=MAIN_BUTTON
+Change Net Name : Old Net Name=TOGGLE New Net Name=TOGGLE_BUTTON
+Added Pin To Net: NetName=BUTTON_LIGHT Pin=Q5-1
+Added Pin To Net: NetName=BUTTON_LIGHT Pin=U1-1
+Added Net: Name=BUTTON_LIGHT
+Added Pin To Net: NetName=LIGHTS Pin=Q2-1
+Added Pin To Net: NetName=LIGHTS Pin=Q3-1
+Added Pin To Net: NetName=LIGHTS Pin=Q4-1
+Added Pin To Net: NetName=LIGHTS Pin=U1-13
+Added Net: Name=LIGHTS
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=Q2-3
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=Q3-3
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=Q4-3
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=Q5-3
+Added Net: Name=NetJ4_4
+Added Member To Class: ClassName=headers Member=Component Q2
+Added Member To Class: ClassName=headers Member=Component Q3
+Added Member To Class: ClassName=headers Member=Component Q4
+Added Member To Class: ClassName=headers Member=Component Q5

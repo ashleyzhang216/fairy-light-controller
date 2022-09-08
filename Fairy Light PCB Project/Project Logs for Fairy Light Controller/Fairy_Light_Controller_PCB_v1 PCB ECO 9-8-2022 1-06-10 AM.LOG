@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GLOW_LEDS Pin=U1-12
+Removed Pin From Net: NetName=LIGHTS Pin=U1-13
+Added Pin To Net: NetName=LIGHTS Pin=U1-12
+Added Pin To Net: NetName=GLOW_LEDS Pin=U1-13
